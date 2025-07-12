@@ -1,0 +1,11 @@
+repo: "Dong-Wo-Long/FEAR1-ost"
+
+name: "fear1-ost"
+displayName: "F.E.A.R. 1 ost"
+author: "D&X"
+description: "The mod only replaces the in-game music, everything else remains unchanged."
+version: v1.0.0
+subtitle: "F.E.A.R. 1 album | v1.0.0"
+minGameVersion: 146
+hideBrowser: false
+hidden: true
