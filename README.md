@@ -1,4 +1,5 @@
 # SANABI-ost
+![FEAR1-ost](https://github.com/Dong-Wo-Long/FEAR1-ost/blob/main/icon.png)
 ## Boss tracks:
 - boss1 - "Power Armor 1"
 
